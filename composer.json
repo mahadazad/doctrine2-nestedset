@@ -1,5 +1,5 @@
 {
-    "name": "mahadazad/doctrine2-nestedset",
+    "name": "blt04/doctrine2-nestedset",
     "description": "Implementation of Doctrine2 Nestedset hierarchical data",
     "type": "library",
     "keywords": [
