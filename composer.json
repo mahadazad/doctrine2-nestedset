@@ -1,0 +1,24 @@
+{
+    "name": "mahadazad/doctrine2-nestedset",
+    "description": "Implementation of Doctrine2 Nestedset hierarchical data",
+    "type": "library",
+    "keywords": [
+        "hierarchical data doctrine2",
+        "netsted set doctrine2"
+    ],
+    "license": "GNU LESSER GENERAL PUBLIC LICENSE",
+    "authors": [
+        {
+            "name": "Brandon Turner",
+            "email": "bt@brandonturner.net"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "DoctrineExtensions\\NestedSet\\": "lib/"
+        }
+    },
+    "require": {
+        "php": ">=5.3.3"
+    }
+}
